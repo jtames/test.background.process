@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "test.background.process": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
